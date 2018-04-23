@@ -1,0 +1,10 @@
+@mixin srodkowanie-pion {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+@mixin maska-naglowki-marginesy {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}

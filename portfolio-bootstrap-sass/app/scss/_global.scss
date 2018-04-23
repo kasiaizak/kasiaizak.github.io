@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    color: #291f1a;
+    margin: 0;
+    font-weight: $pogrubienie3;
+    background-color: $kolor-bazowy;
+}
+
+section {
+    padding: 0 80px 60px;
+    margin: 5px 0 5px 0;
+    width: 100%;
+    background-color: $kolor-bazowy;
+
+    h2 {
+        padding-top: $paddingi;
+        padding-bottom: $paddingi;
+        font-weight: $pogrubienie3;
+        font-size: 30px;
+        span {
+            color: $kolor-wyrozniony;
+        }
+    }
+}
+
+p {
+    line-height: 25px;
+}
