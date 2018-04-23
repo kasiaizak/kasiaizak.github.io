@@ -1,0 +1,109 @@
+@media (max-width: 846px) and (min-width: 780px) {
+    section h2 {
+        font-size: 25px;
+    }
+
+    #main-header .header-content {
+        padding: 20vh;
+    }
+
+    #main-header .header-content h1 {
+        font-size: 50px;
+    }
+
+    #main-header .header-content h2 {
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 779px) and (min-width: 643px) {
+    section h2 {
+        font-size: 25px;
+    }
+
+    #main-header .header-content {
+        padding: 20vh;
+    }
+
+    #main-header .header-content h1 {
+        font-size: 50px;
+    }
+
+    #main-header .header-content h2 {
+        font-size: 25px;
+    }
+
+    #o-mnie div {
+        width: 100%;
+        text-align: center;
+    }
+
+    #o-mnie figure {
+        width: 100%;
+    }
+}
+
+@media (max-width: 642px) {
+    #main-nav label{
+        display: block;
+        text-align: right;
+    }
+    
+    #main-nav ul {
+        display: none;
+    }
+    
+    #main-nav input:checked + ul {
+        display: block;
+    }
+    
+    #main-nav ul li {
+        display: block;
+        padding: 5px;
+    }
+    
+    section h2 {
+        font-size: 25px;
+    }
+
+    #main-header .header-content {
+        padding: 15vh;
+    }
+
+    #main-header .header-content h1 {
+        font-size: 50px;
+        
+    }
+
+    #main-header .header-content h2 {
+        font-size: 25px;
+    }
+
+    #o-mnie div {
+        width: 100%;
+        text-align: center;
+    }
+
+    #o-mnie figure {
+        width: 100%;
+    }
+
+    #umiejetnosci figure {
+        margin: 5px;
+    }
+
+    #portfolio .portfolio-item {
+        display: block;
+        width: 100%;
+    }
+
+    #kontakt .kontakt-item {
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+
+    #kontakt h2 {
+        text-align: center;
+    }
+}

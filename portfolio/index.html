@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Portfolio</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="css/fontawesome-all.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/form.css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&amp;subset=latin-ext" rel="stylesheet">
+    <link rel="stylesheet" href="css/responsive.css">
+
+</head>
+
+<body>
+    <nav id="main-nav">
+        <label for="menu">Menu</label>
+        <input type="checkbox" id="menu">
+        <ul>
+            <li><a href="#o-mnie">o mnie</a></li>
+            <li><a href="#umiejetnosci">umiejętności</a></li>
+            <li><a href="#portfolio">portfolio</a></li>
+            <li><a href="#kontakt">kontakt</a></li>
+        </ul>
+    </nav>
+    <header id="main-header">
+        <div class="header-content">
+            <h1>Katarzyna <span>Izak</span></h1>
+            <h2>Front-End Developer</h2>
+        </div>
+    </header>
+    <section id="o-mnie">
+        <h2>O <span>mnie</span></h2>
+        <figure><img src="img/katarzyna-izak.jpg" alt="Katarzyna Izak"></figure>
+        <div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas facere itaque ut veritatis ipsa quibusdam nulla. Laudantium libero, autem explicabo. Reiciendis quasi vero natus, hic debitis, ullam, voluptas blanditiis quam dignissimos, magnam quia illo et mollitia totam pariatur nostrum placeat amet aut delectus.</p>
+            <p>Quia corporis excepturi sunt quos veritatis, laborum eveniet delectus unde obcaecati aut? Ea quisquam corporis, laudantium deleniti aspernatur cumque, iste quas necessitatibus accusamus quo perferendis!</p>
+        </div>
+    </section>
+    <section id="umiejetnosci">
+        <h2>Moje <span>umiejętności</span></h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas facere itaque ut veritatis ipsa quibusdam nulla. Laudantium libero, autem explicabo. Reiciendis quasi vero natus, hic debitis, ullam, voluptas blanditiis quam dignissimos, magnam quia illo et mollitia totam pariatur nostrum placeat amet aut delectus.</p>
+        <div>
+            <figure>
+                <img src="icons/html5.png" alt="Ikona HTML5">
+                <figcaption>HTML5</figcaption>
+            </figure>
+            <figure>
+                <img src="icons/css3.png" alt="Ikona CSS3">
+                <figcaption>CSS3</figcaption>
+            </figure>
+            <figure>
+                <img src="icons/js.png" alt="Ikona JavaScript">
+                <figcaption>JavaScript</figcaption>
+            </figure>
+            <figure>
+                <img src="icons/jquery.png" alt="Ikona jQuery">
+                <figcaption>jQuery</figcaption>
+            </figure>
+        </div>
+    </section>
+    <section id="portfolio">
+        <h2>Moje <span>portfolio</span></h2>
+        <div class="portfolio-items">
+            <div class="portfolio-item" id="portfolio-item-1">
+                <div class="portfolio-item-mask">
+                    <div class="mask-content">
+                        <div class="mask-content-inner">
+                            <h3>Lorem ipsum dolor.</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing</p>
+                            <h4>Wykorzystane technologie:</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+                            <i class="fas fa-link"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item" id="portfolio-item-2">
+                <div class="portfolio-item-mask">
+                    <div class="mask-content">
+                        <div class="mask-content-inner">
+                            <h3>Lorem ipsum dolor.</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur soluta dolore optio, rerum. Porro, nisi.</p>
+                            <h4>Wykorzystane technologie:</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos aperiam, porro consequatur nobis dicta hic.</p>
+                            <i class="fas fa-link"></i>
+                        </div>
+                        <img src="" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-item" id="portfolio-item-3">
+                <div class="portfolio-item-mask">
+                    <div class="mask-content">
+                        <div class="mask-content-inner">
+                            <h3>Lorem ipsum dolor.</h3>
+                            <p>Lorem ipsum</p>
+                            <h4>Wykorzystane technologie:</h4>
+                            <p>Lorem ipsum dolor</p>
+                            <i class="fas fa-link"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="kontakt">
+        <h2>Katarzyna <span>Izak</span></h2>
+        <div class="kontakt-item">
+            <p>adres linia 1<br> adres linia 2</p>
+            <p>telefon<br> e-mail <span><a href="mailto:kontakt@mail.pl">kontakt@mail.pl</a></span>
+            </p>
+            <div>
+                <figure><i class="fab fa-facebook-square"></i></figure>
+                <figure><i class="fab fa-google-plus"></i></figure>
+                <figure><i class="fab fa-twitter-square"></i></figure>
+                <figure><i class="fab fa-linkedin"></i></figure>
+            </div>
+        </div>
+        <div class="kontakt-item">
+            <form action="https://formspree.io/katarzynaizak@noreply.com" method="POST">
+                <div><input type="text" name="imie" placeholder="Imię i nazwisko"></div>
+                <div><input type="email" name="email" placeholder="E-mail"></div>
+                <div><textarea name="wiadomosc" rows="5" maxlength="500" id="wiadomosc" placeholder="Treść wiadomości"></textarea></div>
+                <div><input type="submit" id="przycisk" value="Wyślij"></div>
+            </form>
+        </div>
+    </section>
+    <footer>
+        <p>Copyright &copy; Katarzyna Izak</p>
+    </footer>
+</body>
+
+</html>
