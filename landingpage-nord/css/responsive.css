@@ -1,0 +1,134 @@
+@media (max-width: 991px) {
+    body {
+        font-size: medium;
+        line-height: 180%;
+    }
+
+    h1 {
+        font-size: xx-large;
+        padding-top: 10vh;
+    }
+    
+    #slide2 h1 {
+        padding-top: inherit;
+    }
+    
+    #slide3 h1 {
+        padding-top: 6vh;
+    }
+
+    p {
+        padding-top: 10px;
+    }
+
+    #navigation label {
+        display: block;
+        text-align: right;
+    }
+
+    #navigation ul li,
+    #navigation label {
+        padding: 5px 5px;
+        float: right;
+        margin-top: 30px;
+    }
+
+    #navigation ul {
+        display: none;
+    }
+
+    #navigation input:checked + ul,
+    #navigation ul li {
+        display: block;
+    }
+
+    #navigation input:checked + ul li a {
+        color: #262a34;
+    }
+
+    #navigation input:checked + ul li a:hover {
+        color: #f9f9f9;
+    }
+
+    #slide1 .second .second-content {
+        transform: translateY(0);
+        padding-top: inherit;
+    }
+    
+    #slide1 .second .phone,
+    #slide1 .second .second-content {
+        top: 0;
+    }
+    #slide1 .second .phone {
+        transform: translateY(10vh);
+    }
+    
+    #slide3 .phone {
+        transform: translateY(35%) translateX(-15%) rotate(-30deg);
+    }
+    
+    #slide3 .rewievs {
+        transform: translateX(-50px);
+    }
+}
+
+@media (max-width: 767px) {
+    #slide1 {
+        background-image: linear-gradient(120deg, #f9f9f9 20%, #41e0d8 20%);
+    }
+
+    #slide2 {
+        background-image: linear-gradient(60deg, #262a34 75%, #f9f9f9 75%);
+    }
+
+    #slide3 {
+        background-image: linear-gradient(60deg, #f9f9f9 37%, #41e0d8 37%);
+    }
+
+    #slide1 .second .phone,
+    #slide2 .gallery,
+    #slide3 .phone {
+        display: none;
+    }
+
+    #slide3 .rewievs {
+        transform: translateX(0);
+    }
+
+    #slide3 blockquote {
+        background-image: none;
+        background-color: #fff;
+        width: 80%;
+        height: auto;
+        padding: 0 20px 0 20px;
+        margin-top: 10vh;
+        font-style: italic;
+    }
+    
+    #slide4a h1 {
+        padding-top: 5vh;
+    }
+}
+
+@media (max-width: 576px) {
+    #slider .slide-show .single-slide {
+        padding-right: 15px;
+    }
+    
+    #slider .slide-show #slide4 {
+        padding-right: 0;
+    }
+
+    #slide3 .blockquote-center {
+        width: 100vw;
+    }
+    
+    #slide3 blockquote {
+        margin-top: 5vh;
+        height: inherit; 
+    }
+    
+    #slide3 blockquote footer {
+        padding-bottom: 5px;
+    }
+}
