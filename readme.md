@@ -1,5 +1,3 @@
-Repozytorium z gotowymi projektami
-
 # Zadanie rekrutacyjne:
 - [NORD landing page](https://katarzynaizak.github.io/landingpage-nord/index.html) - strona wykonana na podstawie pliku psd [tu podgląd](https://github.com/katarzynaizak/katarzynaizak.github.io/blob/master/landingpage-nord/Nord-preview.jpg)
 
