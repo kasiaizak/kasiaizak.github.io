@@ -6,3 +6,6 @@
 - [wersja czysty HTML5 i CSS3](https://katarzynaizak.github.io/portfolio/index.html)
 - [wersja Bootstrap](https://katarzynaizak.github.io/portfolio-bootstrap/index.html)
 - [wersja Bootstrap + SAAS](https://katarzynaizak.github.io/portfolio-bootstrap-sass/app/index.html)
+
+# Modyfikacje szablonów WordPress:
+- strona [FAME Fitness](http://www.famefitness.pl/) - dodanie dodatkowego CSS'a dostosowującego motyw *Storefront* do oczekiwań właściciela strony
