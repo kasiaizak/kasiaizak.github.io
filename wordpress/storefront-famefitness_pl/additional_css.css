@@ -1,0 +1,46 @@
+.site-header,
+.footer-widgets {
+    padding-top: 1em;
+}
+
+.site-header,
+.site-footer {
+    opacity: 0.6;
+}
+
+.site-branding {
+    max-height: 75px;
+}
+
+.widget_nav_menu ul,
+.widget_nav_menu ul li {
+    display: inline;
+    list-style: none;
+}
+
+.widget_nav_menu ul li::before {
+    display: none;
+}
+
+#secondary,
+.right-sidebar .widget-area {
+    display: none;
+}
+
+.right-sidebar .content-area {
+    width: 100%;
+    float: left;
+    margin-right: 0;
+}
+
+.footer-widget-1 .widget {
+    margin: 0 0 1em;
+}
+
+.site-info {
+    padding: 1em 0;
+}
+
+.site-footer {
+    padding-bottom: 1em;
+}
