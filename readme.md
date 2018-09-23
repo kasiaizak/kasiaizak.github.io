@@ -1,4 +1,5 @@
-# Moje [statyczne CV](https://katarzynaizak.github.io/cv/index.html) - można je wydrukować w formacie A4
+# CV:
+- [moje CV](https://katarzynaizak.github.io/cv/index.html) - można je wydrukować w formacie A4
 
 # Moje kodowanie:
 - [NORD](https://katarzynaizak.github.io/landingpage-nord/index.html) - strona typu landing page wykonana na podstawie pliku psd ([podgląd wzorca](https://github.com/katarzynaizak/katarzynaizak.github.io/blob/master/landingpage-nord/Nord-preview.jpg))
