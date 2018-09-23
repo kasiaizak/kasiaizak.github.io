@@ -1,0 +1,116 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arimo', sans-serif;
+    font-size: 12px;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+}
+
+body div.page {
+    background-color:#f4f4f4;
+    width: 100%;
+    overflow: auto;
+}
+
+header, section, aside {
+    padding: 20px;
+}
+
+header {
+    background-color: #453a54;
+    color: #f4f4f4;
+    width: 100%;
+}
+
+section {
+    width: 70%;
+}
+
+section, footer {
+    background-color: white;
+}
+
+aside {
+    width: 30%;
+    background-color: #f4f4f4;
+}
+
+section, aside, section #cv .entry .date, section #cv .entry .description {
+    float: left;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.2rem;
+    padding-top: 5px;
+    font-weight: 400;
+}
+
+h3 {
+    font-size: 1.2rem;
+    padding-top: 20px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+section div#summary p {
+    text-align: justify;
+    padding-bottom: 5px;
+}
+
+section #cv .entry {
+    width: 100%;
+    overflow: hidden;
+    padding-bottom: 10px;
+}
+
+section #cv .entry .date {
+    width: 25%;
+}
+
+section #cv .entry .description {
+    width: 75%;
+}
+
+section #cv .entry .description span {
+    font-style: italic;
+}
+
+section #cv .entry .description ul li, aside ul li {
+    position: relative;
+    margin-left: 15px;
+}
+
+aside img {
+    max-width: 100%;
+}
+
+aside #personal-info p, aside ul li {
+    margin-bottom: 5px;
+}
+
+section #cv .entry .date, aside div p a {
+    font-size: 0.8rem;
+}
+
+footer {
+    font-size: 0.7rem;
+    padding: 5px;
+    text-align: center;
+}
