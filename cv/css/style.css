@@ -114,3 +114,10 @@ footer {
     padding: 5px;
     text-align: center;
 }
+
+@media print {
+    body {
+        width: 210mm;
+        height: 297mm;
+    }
+}
