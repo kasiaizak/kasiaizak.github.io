@@ -1,3 +1,5 @@
+# Moje [statyczne CV](https://katarzynaizak.github.io/cv/index.html) - można je wydrukować w formacie A4
+
 # Moje kodowanie:
 - [NORD](https://katarzynaizak.github.io/landingpage-nord/index.html) - strona typu landing page wykonana na podstawie pliku psd ([podgląd wzorca](https://github.com/katarzynaizak/katarzynaizak.github.io/blob/master/landingpage-nord/Nord-preview.jpg))
 - [Bootstrap Project](https://katarzynaizak.github.io/kurs-front-end-developer/warsztaty/bootstrap-warsztaty/index.html) w trakcie kodowania - strona typu landing page wykonana na podstawie pliku jpg i przesłanych materiałów graficznych ([podgląd wzorca](https://github.com/katarzynaizak/kurs-front-end-developer/blob/master/warsztaty/bootstrap-warsztaty/bootstrap-project-preview.jpg))
