@@ -26,7 +26,6 @@
 - [Suma i iloczyn](https://repl.it/@katarzynaizak/4-js-suma-iloczyn) zadanie pokazane na stronie repl.it
 - [Suma kwadratów](https://repl.it/@katarzynaizak/4-js-suma-kwadratow) zadanie pokazane na stronie repl.it
 - [Pobieranie n-tego elementu z ciągu Fibonacciego](https://repl.it/@katarzynaizak/4-js-element-fibonacci) zadanie pokazane na stronie repl.it
-- [Odwrócenie napisu](https://repl.it/@katarzynaizak/4-js-odwroc-string) zadanie pokazane na stronie repl.it
 - [Praca z obiektami](https://repl.it/@katarzynaizak/4-js-obiekty-ksiazka) zadanie pokazane na stronie repl.it
 - [Pobieranie danych z obiektu JSON](https://repl.it/@katarzynaizak/4-js-obiekt-json) zadanie pokazane na stronie repl.it
 
