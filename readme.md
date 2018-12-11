@@ -16,9 +16,9 @@
 # Ćwiczenia:
 
 ## CSS:
-- [Kolorwe kwadraty](https://katarzynaizak.github.io/nauka/kurs-fed-zadania-domowe/3-css-pozycjonowanie-i-kolory/index.html) ćwiczenie na pozycjonowanie i lekkie formatowanie
-- [Odliczanie](https://katarzynaizak.github.io/nauka/kurs-fed-zadania-domowe/3-css-odliczanie/index.html) prosta animacja w CSS'ie
-- [Ćwiczenie z RWD](https://katarzynaizak.github.io/nauka/kurs-fed-zadania-domowe/3-css-rwd/index.html) strona wyświetla się różnie w zależności od jej szerokości: mniej niż 992px, więcej niż 992px i więcej niż 1170px
+- [Kolorwe kwadraty](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/3-css-pozycjonowanie-i-kolory/index.html) ćwiczenie na pozycjonowanie i lekkie formatowanie
+- [Odliczanie](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/3-css-odliczanie/index.html) prosta animacja w CSS'ie
+- [Ćwiczenie z RWD](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/3-css-rwd/index.html) strona wyświetla się różnie w zależności od jej szerokości: mniej niż 992px, więcej niż 992px i więcej niż 1170px
 
 ## JavaSript:
 - [Odwrócenie stringa](https://repl.it/@katarzynaizak/4-js-odwroc-string) zadanie pokazane na stronie repl.it
@@ -30,12 +30,12 @@
 - [Pobieranie danych z obiektu JSON](https://repl.it/@katarzynaizak/4-js-obiekt-json) zadanie pokazane na stronie repl.it
 
 ### Model DOM:
-- [Kalkulator](https://katarzynaizak.github.io/nauka/kurs-fed-zadania-domowe/5-model-dom-kalkulator/index.html) wykonuje podstawowe funkcje arytmetyczne na liczbach całkowitych i zmiennoprzecinkowych, w założeniu nie obsługuje jeszcze błędów (jak dzielenie przez zero)
+- [Kalkulator](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/5-model-dom-kalkulator/index.html) wykonuje podstawowe funkcje arytmetyczne na liczbach całkowitych i zmiennoprzecinkowych, w założeniu nie obsługuje jeszcze błędów (jak dzielenie przez zero)
 
 ### Biblioteka jQuery:
-- [Prosta animacja](https://katarzynaizak.github.io/nauka/kurs-fed-zadania-domowe/6-jquery-animacja/index.html)
-- [Modyfikacje DOM](https://katarzynaizak.github.io/nauka/kurs-fed-zadania-domowe/6-jquery-modyfikacja-dom/index.html)
-- [Suma wypłat](https://katarzynaizak.github.io/nauka/kurs-fed-zadania-domowe/6-jquery-suma-wyplat/index.html)
+- [Prosta animacja](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/6-jquery-animacja/index.html)
+- [Modyfikacje DOM](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/6-jquery-modyfikacja-dom/index.html)
+- [Suma wypłat](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/6-jquery-suma-wyplat/index.html)
 
 ### AJAX:
-- [Pobierz dane programisty](https://katarzynaizak.github.io/nauka/kurs-fed-zadania-domowe/7-ajax-pobierz-dane-programisty/index.html) z zewnętrznego pliku
+- [Pobierz dane programisty](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/7-ajax-pobierz-dane-programisty/index.html) z zewnętrznego pliku
