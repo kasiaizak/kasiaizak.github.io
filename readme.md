@@ -1,3 +1,5 @@
+[FilmŁeb po mojemu](https://katarzynaizak.github.io/kpm/js-apps-starter/index.html) - mała aplikacja w JS (z użyciem biblioteki jQuery) do budowania własnej biblioteczki filmowej. Za wersję wizualną odpowiada Bootstrap 4, a do zarządzania danymi została wykorzystana baza Firebase (na stałe zablokowana do użytku publicznego, tymczsowo blokadę zdejmuję, gdy chcę na stałe coś do dniej dodać - w planie mam dodawanie logowania).
+
 # CV:
 - [moje CV](https://katarzynaizak.github.io/cv/index.html) - można je wydrukować w formacie A4
 
