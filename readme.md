@@ -1,10 +1,8 @@
-[FilmŁeb po mojemu](https://katarzynaizak.github.io/kpm/js-apps-starter/index.html) - mała aplikacja w JS (z użyciem biblioteki jQuery) do budowania własnej biblioteczki filmowej. Za wersję wizualną odpowiada Bootstrap 4, a do zarządzania danymi została wykorzystana baza Firebase (na stałe zablokowana do użytku publicznego, tymczsowo blokadę zdejmuję, gdy chcę na stałe coś do dniej dodać - w planie mam dodawanie logowania).
-
-# CV:
-- [moje CV](https://katarzynaizak.github.io/cv/index.html) - można je wydrukować w formacie A4
+[FilmŁeb po mojemu](https://katarzynaizak.github.io/kpm/js-apps-starter/) - mała aplikacja w JS (z użyciem biblioteki jQuery) do budowania własnej biblioteczki filmowej. Za wersję wizualną odpowiada Bootstrap 4, a do zarządzania danymi została wykorzystana baza Firebase (na stałe zablokowana do użytku publicznego, tymczsowo blokadę zdejmuję, gdy chcę na stałe coś do dniej dodać - w planie mam dodanie logowania).
 
 # Moje kodowanie:
-- [NORD](https://katarzynaizak.github.io/landingpage-nord/index.html) - strona typu landing page wykonana na podstawie pliku psd ([podgląd wzorca](https://katarzynaizak.github.io/landingpage-nord/Nord-preview.jpg))
+- [NORD](https://katarzynaizak.github.io/landingpage-nord/) - zadanie rekrutacyjne (strona typu landing page wykonana na podstawie pliku psd ([podgląd wzorca](https://katarzynaizak.github.io/landingpage-nord/Nord-preview.jpg)))
+- [To-do Lista](https://katarzynaizak.github.io/mdbootstrap-todolist/) - zadanie rekrutacyjne (przycisk "Add" dodaje nowe zadanie z treścią 'Task number #' gdzie # to numer zadania. Ponowne kliknięcie tego przycisku dodaje kolejne zadanie z następnym numerem. "Remove" usuwa ostatnie zadanie (o najwyższym numerze). "Clear" czyści całą listę.)
 - [Bootstrap Project](https://katarzynaizak.github.io/kurs-fed/warsztaty/bootstrap-warsztaty/index.html) w trakcie kodowania - strona typu landing page wykonana na podstawie pliku jpg i przesłanych materiałów graficznych ([podgląd wzorca](https://katarzynaizak.github.io/kurs-fed/warsztaty/bootstrap-warsztaty/bootstrap-project-preview.jpg))
 
 # Różne wersje "projektu portfolio":
@@ -18,9 +16,9 @@
 # Ćwiczenia:
 
 ## CSS:
-- [Kolorwe kwadraty](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/3-css-pozycjonowanie-i-kolory/index.html) ćwiczenie na pozycjonowanie i lekkie formatowanie
-- [Odliczanie](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/3-css-odliczanie/index.html) prosta animacja w CSS'ie
-- [Ćwiczenie z RWD](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/3-css-rwd/index.html) strona wyświetla się różnie w zależności od jej szerokości: mniej niż 992px, więcej niż 992px i więcej niż 1170px
+- [Kolorwe kwadraty](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/3-css-pozycjonowanie-i-kolory/) ćwiczenie na pozycjonowanie i lekkie formatowanie
+- [Odliczanie](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/3-css-odliczanie/) prosta animacja w CSS'ie
+- [Ćwiczenie z RWD](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/3-css-rwd/) strona wyświetla się różnie w zależności od jej szerokości: mniej niż 992px, więcej niż 992px i więcej niż 1170px
 
 ## JavaSript:
 - [Odwrócenie stringa](https://repl.it/@katarzynaizak/4-js-odwroc-string) zadanie pokazane na stronie repl.it
@@ -32,12 +30,12 @@
 - [Pobieranie danych z obiektu JSON](https://repl.it/@katarzynaizak/4-js-obiekt-json) zadanie pokazane na stronie repl.it
 
 ### Model DOM:
-- [Kalkulator](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/5-model-dom-kalkulator/index.html) wykonuje podstawowe funkcje arytmetyczne na liczbach całkowitych i zmiennoprzecinkowych, w założeniu nie obsługuje jeszcze błędów (jak dzielenie przez zero)
+- [Kalkulator](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/5-model-dom-kalkulator/) wykonuje podstawowe funkcje arytmetyczne na liczbach całkowitych i zmiennoprzecinkowych, w założeniu nie obsługuje jeszcze błędów (jak dzielenie przez zero)
 
 ### Biblioteka jQuery:
-- [Prosta animacja](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/6-jquery-animacja/index.html)
-- [Modyfikacje DOM](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/6-jquery-modyfikacja-dom/index.html)
-- [Suma wypłat](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/6-jquery-suma-wyplat/index.html)
+- [Prosta animacja](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/6-jquery-animacja/)
+- [Modyfikacje DOM](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/6-jquery-modyfikacja-dom/)
+- [Suma wypłat](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/6-jquery-suma-wyplat/)
 
 ### AJAX:
-- [Pobierz dane programisty](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/7-ajax-pobierz-dane-programisty/index.html) z zewnętrznego pliku
+- [Pobiera dane programisty](https://katarzynaizak.github.io/kurs-fed/zadania-domowe/7-ajax-pobierz-dane-programisty/) z zewnętrznego pliku
