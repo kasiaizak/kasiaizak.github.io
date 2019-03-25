@@ -4,12 +4,12 @@
 - [PZHK-de](https://katarzynaizak.github.io/landingpage/pzhk-de/) - strona typu landing page dla PZHK
 - [NORD](https://katarzynaizak.github.io/rekrutacja/landingpage-nord/) - zadanie rekrutacyjne (strona typu landing page wykonana na podstawie pliku psd [podgląd wzorca](https://katarzynaizak.github.io/rekrutacja/landingpage-nord/Nord-preview.jpg))
 - [To-do Lista](https://katarzynaizak.github.io/rekrutacja/mdbootstrap-todolist/) - zadanie rekrutacyjne (przycisk "Add" dodaje nowe zadanie z treścią 'Task number #' gdzie # to numer zadania. Ponowne kliknięcie tego przycisku dodaje kolejne zadanie z następnym numerem. "Remove" usuwa ostatnie zadanie (o najwyższym numerze). "Clear" czyści całą listę.)
-- [Bootstrap Project](https://katarzynaizak.github.io/kurs-fed/warsztaty/bootstrap-warsztaty/index.html) - strona typu landing page wykonana na podstawie pliku jpg i przesłanych materiałów graficznych ([podgląd wzorca](https://katarzynaizak.github.io/kurs-fed/warsztaty/bootstrap-warsztaty/bootstrap-project-preview.jpg))
+- [Bootstrap Project](https://katarzynaizak.github.io/landingpage/bootstrap-project/index.html) - strona typu landing page wykonana na podstawie pliku jpg i przesłanych materiałów graficznych ([podgląd wzorca](https://katarzynaizak.github.io/landingpage/bootstrap-project/bootstrap-project-preview.jpg))
 
 # Różne wersje "projektu portfolio":
-- [wersja czysty HTML5 i CSS3](https://katarzynaizak.github.io/projekt-portfolio/html-css/index.html)
-- [wersja Bootstrap 3](https://katarzynaizak.github.io/projekt-portfolio/bootstrap/index.html)
-- [wersja Bootstrap 3 + SAAS](https://katarzynaizak.github.io/projekt-portfolio/bootstrap-sass/index.html)
+- [wersja czysty HTML5 i CSS3](https://katarzynaizak.github.io/landingpage/projekt-portfolio/html-css/index.html)
+- [wersja Bootstrap 3](https://katarzynaizak.github.io/landingpage/projekt-portfolio/bootstrap/index.html)
+- [wersja Bootstrap 3 + SAAS](https://katarzynaizak.github.io/landingpage/projekt-portfolio/bootstrap-sass/index.html)
 
 # Modyfikacje szablonów WordPress:
 - strona [FAME Fitness](http://www.famefitness.pl/) - dodanie dodatkowego CSS'a dostosowującego motyw *Storefront* do oczekiwań właściciela strony
