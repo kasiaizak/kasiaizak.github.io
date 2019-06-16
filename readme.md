@@ -1,4 +1,4 @@
-[FilmŁeb po mojemu](https://katarzynaizak.github.io/kpm/js-apps-starter/) - mała aplikacja w JS (z użyciem biblioteki jQuery) do budowania własnej biblioteczki filmowej. Za wersję wizualną odpowiada Bootstrap 4, a do zarządzania danymi została wykorzystana baza Firebase (na stałe zablokowana do użytku publicznego, tymczsowo blokadę zdejmuję, gdy chcę na stałe coś do dniej dodać - w planie mam dodanie logowania).
+[FilmŁeb po mojemu](https://katarzynaizak.github.io/filmleb/) - mała aplikacja w JS (z użyciem biblioteki jQuery) do budowania własnej biblioteczki filmowej. Za wersję wizualną odpowiada Bootstrap 4, a do zarządzania danymi została wykorzystana baza Firebase (na stałe zablokowana do użytku publicznego, tymczasowo blokadę można zdjąć w celu dodania nowych danych). W planie mam dodanie logowania.
 
 # Moje kodowanie:
 - [PZHK-de](https://katarzynaizak.github.io/landingpage/pzhk-de/) - strona typu landing page dla PZHK
