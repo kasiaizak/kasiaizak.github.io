@@ -1,50 +1,23 @@
 /* start general */
-
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
-body {
+body, textarea {
     font-family: 'Lato', sans-serif;
+}
+
+body {
     color: #291f1a;
     margin: 0;
     font-weight: 300;
     background-color: #fff;
 }
 
-section {
-    padding: 0 80px 60px;
-    width: 100%;
-    background-color: #fff;
-}
 
-section h2 {
-    text-align: center;
-    margin-top: 0.83em;
-    margin-bottom: 0.83em;
-    font-weight: 300;
-    font-size: 30px;
-}
-
-section h2 span, #kontakt .kontakt-item p span a {
-    color: #1ac056;
-}
-
-p {
-    line-height: 25px;
-}
-
-/* end general */
-
-/* start nav */
-
-#main-nav input, #main-nav label {
-    display: none;
-}
-
-#main-nav {
+.navigation {
     width: 100%;
     /*background-color: #f9fcfe;*/
     background-color: rgba(255,255,255,0.9);
@@ -54,30 +27,31 @@ p {
     font-weight: bold;
 }
 
-#main-nav ul {
+.navigation input, .navigation label {
+    display: none;
+}
+
+.navigation label {
+    padding: 20px;
+}
+
+.navigation ul {
     margin: 0;
     float: right;
 }
 
-#main-nav ul li {
+.navigation ul li {
     display: inline-block;
     padding: 20px 40px;
 }
 
-#main-nav label {
-    padding: 20px;
-}
-
-#main-nav ul li a, #main-nav label {
+.navigation ul li a, .navigation label {
     color: #1ac056;
     text-decoration: none;
 }
 
-/* end nav */
 
-/* start header */
-
-#main-header {
+.site-header {
     background-image: url(../img/header-background.jpg);
     background-size: cover;
     background-position: top center;
@@ -86,119 +60,133 @@ p {
     position: relative;
 }
 
-#main-header .header-content {
-    /*padding: 25vh;*/
+.site-header__content {
     position: absolute;
     top: 50%;
     width: 100%;
     transform: translateY(-50%);
-    text-align: center!important;
+    text-align: center;
 }
 
-#main-header .header-content h1 {
+.site-header__name {
     font-family: 'Roboto', sans-serif;
     font-weight: 200;
     font-size: 70px;
 }
 
-#main-header .header-content h1 span {
+.site-header__name--distinction {
     color: #1ac056;
     font-weight: 400;
 }
 
-#main-header .header-content h2 {
+.site-header__position {
     font-weight: 200;
     font-size: 35px;
 }
 
-/* end header */
 
-/* start sekcja o mnie */
+.site-footer {
+    padding: 2px 80px 2px;
+    background-color: #1A2F40;
+    color: #fff;
+}
 
-#o-mnie {
+
+.module {
+    padding: 0 80px 60px;
+    width: 100%;
+    background-color: #fff;
+}
+
+.module--about {
     background-color: #f9fcfe;
     box-shadow: 0px 3px #E5E5E5;
     overflow: hidden;
 }
 
-#o-mnie figure {
-    width: 50%;
-    float: left;
+.module--contact {
+    background-color: #213b50;
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-size: initial;
+}
+
+.module--skills {
     text-align: center;
-    padding: 10px;
 }
 
-#o-mnie div {
-    width: 50%;
-    float: left;
-}
 
-#o-mnie figure img {
-    max-height: 300px;
-    max-width: 100%;
+.module__avatar {
+    width: 70%;
+    max-width: 250px;
     border: 14px #fff solid;
     border-radius: 15px;
+    display: block;
+    margin: auto;
 }
 
-/* end sekcja o mnie */
+.module__distinction {
+    color: #1ac056;
+}
 
-/* start sekcja umiejetnosci */
-
-#umiejetnosci {
+.module__header {
     text-align: center;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    font-weight: 300;
+    font-size: 30px;
 }
 
-#umiejetnosci figure {
+.module__header--contact {
+    margin-top: 0;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.module__icons {
     display: inline-block;
+}
+
+.module__icons--about {
     margin: 20px;
 }
 
-/* start sekcja umiejetnosci */
+.module__icons--contact {
+    font-size: 30px;
+    margin: 10px;
+}
 
-/* start sekcja portfolio */
+.module__paragraph {
+    line-height: 25px;
+}
 
-#portfolio .portfolio-items {
+.module__paragraph--contact {
+    margin-bottom: 12px;
+}
+
+.module__twocolumns {
+    width: 49%;
+    display: inline-block;
+}
+
+.module__twocolumns--about {
+    vertical-align: middle;
+}
+
+.module__twocolumns--contact {
+    vertical-align: top;
+    margin-bottom: 20px;
+}
+
+
+.portfolio {
     font-size: 0;
     text-align: center;
     width: 100%;
 }
 
-#portfolio .portfolio-item {
-    height: 350px;
-    width: 33%;
-    background-size: cover;
-    background-position: center;
-    display: inline-block;
-    position: relative;
-    font-size: initial;
-}
-
-#portfolio .portfolio-items #portfolio-item-1 {
-    background-image: url("../img/portfolio1.jpg");
-}
-
-#portfolio .portfolio-items #portfolio-item-2 {
-    background-image: url("../img/portfolio2.jpg");
-}
-
-#portfolio .portfolio-items #portfolio-item-3 {
-    background-image: url("../img/portfolio4.jpg");
-}
-
-#portfolio .portfolio-item-mask {
-    width: 100%;
-    height: 100%;
-    background-color: rgba(42, 61, 79, 0.8);
-    position: absolute;
-    opacity: 0;
-    transition: all 0.3s ease-in-out;
-}
-
-#portfolio .portfolio-item-mask:hover {
-    opacity: 1;
-}
-
-#portfolio .portfolio-items .mask-content {
+.portfolio__content {
     border: 1px #fff solid;
     margin: 10px;
     position: relative;
@@ -206,7 +194,12 @@ p {
     padding: 2px;
 }
 
-#portfolio .mask-content-inner {
+.portfolio__header {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.portfolio__inner {
     color: #fff;
     font-size: 12px;
     position: absolute;
@@ -220,75 +213,93 @@ p {
     /* 50% swoje */
 }
 
-#portfolio .mask-content-inner h3 {
-    margin-top: 15px;
-    margin-bottom: 10px;
-}
-
-#portfolio .mask-content-inner h4 {
-    margin-top: 15px;
-    margin-bottom: 10px;
-}
-
-#portfolio .mask-content-inner .fa-link:hover {
-    color: #1ac056;
-}
-
-/* end sekcja portfolio */
-
-/* start sekcja kontakt */
-
-#kontakt {
-    background-color: #213b50;
-    color: #fff;
-    font-size: 0;
-    padding-top: 20px;
-    padding-bottom: 30px;
-}
-
-#kontakt div {
-    width: 100%;
-    margin: 0;
+.portfolio__item {
+    height: 350px;
+    width: 33%;
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    position: relative;
     font-size: initial;
 }
 
-#kontakt .kontakt-item {
-    width: 50%;
-    display: inline-block;
-    vertical-align: top;
+.portfolio__item--1 {
+    background-image: url("../img/portfolio1.jpg");
 }
 
-#kontakt h2 {
-    margin-top: 0;
-    text-align: left;
-    margin-bottom: 30px;
+.portfolio__item--2 {
+    background-image: url("../img/portfolio2.jpg");
 }
 
-#kontakt .kontakt-item p {
-    margin-bottom: 12px;
+.portfolio__item--3 {
+    background-image: url("../img/portfolio4.jpg");
 }
 
-#kontakt .kontakt-item div {
-    margin-bottom: 20px;
+.portfolio__link:hover {
+    color: #1ac056;
 }
 
-#kontakt .fab {
-    font-size: 30px;
+.portfolio__mask {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(42, 61, 79, 0.8);
+    position: absolute;
+    opacity: 0;
+    transition: all 0.3s ease-in-out;
 }
 
-#kontakt figure {
-    display: inline-block;
-    margin: 10px;
+.portfolio__mask:hover {
+    opacity: 1;
 }
 
-/* end sekcja kontakt */
+.portfolio__subheader {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
 
-/* start stopka */
 
-footer {
-    padding: 2px 80px 2px;
-    background-color: #1A2F40;
+.form {
+    background-color: #213b50;
     color: #fff;
 }
 
-/* end stopka */
+.form :focus {
+    background-color: #4e708c;
+    outline: none;
+    border: 1px solid #fff;
+}
+
+.form__item {
+    width: 100%;
+    margin-bottom: 10px;
+    background-color: #2b4a64;
+    border: 1px solid #213b50;
+    color: #fff;
+    padding: 10px;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: lightgray;
+}
+::-moz-placeholder { /* Firefox 19+ */
+    color: lightgray;
+}
+:-ms-input-placeholder { /* IE 10+ */
+    color: lightgray;
+}
+:-moz-placeholder { /* Firefox 18- */
+    color: lightgray;
+}
+
+.form__submit {
+    padding: 15px 30px 15px 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    float: right;
+    background-color: springgreen;
+    border: 1px solid #fff;
+}
+
+.form__submit:hover {
+    cursor: pointer;
+}

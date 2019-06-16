@@ -1,109 +1,116 @@
 @media (max-width: 846px) and (min-width: 780px) {
-    section h2 {
-        font-size: 25px;
-    }
-
-    #main-header .header-content {
+    .site-header__content {
         padding: 20vh;
     }
 
-    #main-header .header-content h1 {
+    .site-header__name {
         font-size: 50px;
     }
 
-    #main-header .header-content h2 {
+    .site-header__position {
+        font-size: 25px;
+    }
+
+    .module__header {
         font-size: 25px;
     }
 }
 
 @media (max-width: 779px) and (min-width: 643px) {
-    section h2 {
-        font-size: 25px;
-    }
-
-    #main-header .header-content {
+    .site-header__content {
         padding: 20vh;
     }
 
-    #main-header .header-content h1 {
+    .site-header__name {
         font-size: 50px;
     }
 
-    #main-header .header-content h2 {
+    .site-header__position {
         font-size: 25px;
     }
 
-    #o-mnie div {
-        width: 100%;
+    .site-footer {
+        padding: 10px;
+    }
+
+    .module__header {
+        font-size: 25px;
+    }
+
+    .module__header--contact, .site-footer {
         text-align: center;
     }
 
-    #o-mnie figure {
+    .module__twocolumns {
         width: 100%;
+        text-align: center;
     }
 }
 
 @media (max-width: 642px) {
-    #main-nav label{
+    .navigation input:checked + ul {
+        display: block;
+    }
+
+    .navigation label {
         display: block;
         text-align: right;
     }
-    
-    #main-nav ul {
+
+    .navigation ul {
         display: none;
     }
-    
-    #main-nav input:checked + ul {
-        display: block;
-    }
-    
-    #main-nav ul li {
+
+    .navigation ul li {
         display: block;
         padding: 5px;
     }
-    
-    section h2 {
-        font-size: 25px;
-    }
 
-    #main-header .header-content {
+    .site-header__content {
         padding: 15vh;
     }
 
-    #main-header .header-content h1 {
+    .site-header__name {
         font-size: 50px;
-        
     }
 
-    #main-header .header-content h2 {
+    .site-header__position {
         font-size: 25px;
     }
 
-    #o-mnie div {
-        width: 100%;
+    .site-footer {
+        padding: 10px;
+    }
+
+    .module--contact {
+        padding-bottom: 45px;
+    }
+
+    .module__header {
+        font-size: 25px;
+    }
+
+    .module__header--contact, .site-footer {
         text-align: center;
     }
 
-    #o-mnie figure {
-        width: 100%;
-    }
-
-    #umiejetnosci figure {
+    .module__icons--about {
         margin: 5px;
     }
 
-    #portfolio .portfolio-item {
-        display: block;
+    .module__twocolumns {
         width: 100%;
+        text-align: center;
     }
 
-    #kontakt .kontakt-item {
+    .module__twocolumns--contact {
         display: block;
         text-align: center;
         width: 100%;
     }
 
-    #kontakt h2 {
-        text-align: center;
+    .portfolio__item {
+        display: block;
+        width: 100%;
     }
 }
