@@ -18,9 +18,10 @@
 # Ćwiczenia:
 
 ## CSS:
-- [Kolorwe kwadraty](https://kasiaizak.github.io/kurs-fed/zadania-domowe/3-css-pozycjonowanie-i-kolory/) ćwiczenie na pozycjonowanie i lekkie formatowanie
+- [Kolorwe kwadraty](https://codepen.io/kasiaizak/pen/NZBRoO) ćwiczenie na pozycjonowanie i lekkie formatowanie
 - [Odliczanie](https://kasiaizak.github.io/kurs-fed/zadania-domowe/3-css-odliczanie/) prosta animacja w CSS'ie
 - [Ćwiczenie z RWD](https://kasiaizak.github.io/kurs-fed/zadania-domowe/3-css-rwd/) strona wyświetla się różnie w zależności od jej szerokości: mniej niż 992px, więcej niż 992px i więcej niż 1170px
+- [Preloader](https://codepen.io/kasiaizak/pen/orMLXQ) w czystym CSS
 
 ## JavaSript:
 - [Odwrócenie stringa](https://repl.it/@katarzynaizak/4-js-odwroc-string) zadanie pokazane na stronie repl.it
@@ -32,7 +33,7 @@
 - [Pobieranie danych z obiektu JSON](https://repl.it/@katarzynaizak/4-js-obiekt-json) zadanie pokazane na stronie repl.it
 
 ### Model DOM:
-- [Kalkulator](https://kasiaizak.github.io/kurs-fed/zadania-domowe/5-model-dom-kalkulator/) wykonuje podstawowe funkcje arytmetyczne na liczbach całkowitych i zmiennoprzecinkowych, w założeniu nie obsługuje jeszcze błędów (jak dzielenie przez zero)
+- [Kalkulator](https://codepen.io/kasiaizak/pen/NZBRyz) wykonuje podstawowe funkcje arytmetyczne na liczbach całkowitych i zmiennoprzecinkowych, w założeniu nie obsługuje jeszcze błędów (jak dzielenie przez zero)
 
 ### Biblioteka jQuery:
 - [Prosta animacja](https://kasiaizak.github.io/kurs-fed/zadania-domowe/6-jquery-animacja/)
