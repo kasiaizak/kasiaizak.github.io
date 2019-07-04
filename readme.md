@@ -1,7 +1,8 @@
-[FilmŁeb po mojemu](https://katarzynaizak.github.io/filmleb/) - mała aplikacja w JS (z użyciem biblioteki jQuery) do budowania własnej biblioteczki filmowej. Za wersję wizualną odpowiada Bootstrap 4, a do zarządzania danymi została wykorzystana baza Firebase (na stałe zablokowana do użytku publicznego, tymczasowo blokadę można zdjąć w celu dodania nowych danych). W planie mam dodanie logowania.
-
 # Moje kodowanie:
+- [Wizytówka](https://katarzynaizak.github.io/business-card/) 
+- [Gotuję jak Masterszef](https://katarzynaizak.github.io/masterszef/) - moja "książka kucharska" (w trakcie budowy)
 - [PZHK-de](https://katarzynaizak.github.io/landingpage/pzhk-de/) - strona typu landing page dla PZHK
+- [FilmŁeb po mojemu](https://katarzynaizak.github.io/filmleb/) - mała aplikacja w JS (z użyciem biblioteki jQuery) do budowania własnej biblioteczki filmowej. Za wersję wizualną odpowiada Bootstrap 4, a do zarządzania danymi została wykorzystana baza Firebase (na stałe zablokowana do użytku publicznego, tymczasowo blokadę można zdjąć w celu dodania nowych danych). W planie mam dodanie logowania.
 - [NORD](https://katarzynaizak.github.io/rekrutacja/landingpage-nord/) - zadanie rekrutacyjne (strona typu landing page wykonana na podstawie pliku psd [podgląd wzorca](https://katarzynaizak.github.io/rekrutacja/landingpage-nord/Nord-preview.jpg))
 - [To-do Lista](https://katarzynaizak.github.io/rekrutacja/mdbootstrap-todolist/) - zadanie rekrutacyjne (przycisk "Add" dodaje nowe zadanie z treścią 'Task number #' gdzie # to numer zadania. Ponowne kliknięcie tego przycisku dodaje kolejne zadanie z następnym numerem. "Remove" usuwa ostatnie zadanie (o najwyższym numerze). "Clear" czyści całą listę.)
 - [Bootstrap Project](https://katarzynaizak.github.io/landingpage/bootstrap-project/index.html) - strona typu landing page wykonana na podstawie pliku jpg i przesłanych materiałów graficznych ([podgląd wzorca](https://katarzynaizak.github.io/landingpage/bootstrap-project/bootstrap-project-preview.jpg))
