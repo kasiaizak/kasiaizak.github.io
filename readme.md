@@ -1,6 +1,6 @@
 # Moje kodowanie:
 - [Wizytówka](https://kasiaizak.github.io/business-card/) 
-- [Gotuję jak Masterszef](https://kasiizak.github.io/masterszef/) - moja "książka kucharska" (w trakcie budowy)
+- [Gotuję jak Masterszef](https://kasiaizak.github.io/masterszef/) - moja "książka kucharska" (w trakcie budowy)
 - [PZHK-de](https://kasiaizak.github.io/landingpage/pzhk-de/) - strona typu landing page dla PZHK
 - [FilmŁeb po mojemu](https://kasiaizak.github.io/filmleb/) - mała aplikacja w JS (z użyciem biblioteki jQuery) do budowania własnej biblioteczki filmowej. Za wersję wizualną odpowiada Bootstrap 4, a do zarządzania danymi została wykorzystana baza Firebase (na stałe zablokowana do użytku publicznego, tymczasowo blokadę można zdjąć w celu dodania nowych danych). W planie mam dodanie logowania.
 - [NORD](https://kasiaizak.github.io/rekrutacja/landingpage-nord/) - strona typu landing page wykonana na podstawie pliku psd
