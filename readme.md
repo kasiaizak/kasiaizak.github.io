@@ -18,27 +18,27 @@
 # Ćwiczenia:
 
 ## CSS:
-- [Kolorwe kwadraty](https://codepen.io/kasiaizak/pen/NZBRoO) ćwiczenie na pozycjonowanie i lekkie formatowanie
-- [Odliczanie](https://kasiaizak.github.io/kurs-fed/zadania-domowe/3-css-odliczanie/) prosta animacja w CSS'ie
+- [Kolorwe kwadraty](https://codepen.io/kasiaizak/pen/NZBRoO?editors=1100#0) link do codepen.io
+- [Odliczanie](https://codepen.io/kasiaizak/pen/OewGdQ?editors=1100#0) link do codepen.io
 - [Ćwiczenie z RWD](https://kasiaizak.github.io/kurs-fed/zadania-domowe/3-css-rwd/) strona wyświetla się różnie w zależności od jej szerokości: mniej niż 992px, więcej niż 992px i więcej niż 1170px
-- [Preloader](https://codepen.io/kasiaizak/pen/orMLXQ) w czystym CSS
+- [Preloader](https://codepen.io/kasiaizak/pen/orMLXQ?editors=1100#0) link do codepen.io
 
 ## JavaSript:
-- [Odwrócenie stringa](https://repl.it/@katarzynaizak/4-js-odwroc-string) zadanie pokazane na stronie repl.it
-- [Sortowanie stringa](https://repl.it/@katarzynaizak/4-js-sortuj-string) zadanie pokazane na stronie repl.it
-- [Suma i iloczyn](https://repl.it/@katarzynaizak/4-js-suma-iloczyn) zadanie pokazane na stronie repl.it
-- [Suma kwadratów](https://repl.it/@katarzynaizak/4-js-suma-kwadratow) zadanie pokazane na stronie repl.it
-- [Pobieranie n-tego elementu z ciągu Fibonacciego](https://repl.it/@katarzynaizak/4-js-element-fibonacci) zadanie pokazane na stronie repl.it
-- [Praca z obiektami](https://repl.it/@katarzynaizak/4-js-obiekty-ksiazka) zadanie pokazane na stronie repl.it
-- [Pobieranie danych z obiektu JSON](https://repl.it/@katarzynaizak/4-js-obiekt-json) zadanie pokazane na stronie repl.it
+- [Odwrócenie stringa](https://repl.it/@katarzynaizak/odwroc-stringa) link do repl.it
+- [Sortowanie stringa](https://repl.it/@katarzynaizak/sortuj-stringa) link do repl.it
+- [Suma i iloczyn](https://repl.it/@katarzynaizak/suma-i-iloczyn) link do repl.it
+- [Suma kwadratów](https://repl.it/@katarzynaizak/suma-kwadratow) zlink do repl.it
+- [Pobieranie n-tego elementu z ciągu Fibonacciego](https://repl.it/@katarzynaizak/element-fibonacci) link do repl.it
+- [Praca z obiektami](https://repl.it/@katarzynaizak/obiekty-ksiazka) link do repl.it
+- [Pobieranie danych z obiektu JSON](https://repl.it/@katarzynaizak/obiekt-json) link do repl.it
 
 ### Model DOM:
 - [Kalkulator](https://codepen.io/kasiaizak/pen/NZBRyz) wykonuje podstawowe funkcje arytmetyczne na liczbach całkowitych i zmiennoprzecinkowych, w założeniu nie obsługuje jeszcze błędów (jak dzielenie przez zero)
 
 ### Biblioteka jQuery:
-- [Prosta animacja](https://kasiaizak.github.io/kurs-fed/zadania-domowe/6-jquery-animacja/)
-- [Modyfikacje DOM](https://kasiaizak.github.io/kurs-fed/zadania-domowe/6-jquery-modyfikacja-dom/)
-- [Suma wypłat](https://kasiaizak.github.io/kurs-fed/zadania-domowe/6-jquery-suma-wyplat/)
+- [Prosta animacja](https://codepen.io/kasiaizak/pen/jjpovO) link do codepen.io
+- [Modyfikacje DOM](https://codepen.io/kasiaizak/pen/ewjaXB?editors=1010#0) link do codepen.io
+- [Suma wypłat](https://codepen.io/kasiaizak/pen/YojoPR?editors=1010#0) link do codepen.io
 
 ### AJAX:
 - [Pobiera dane programisty](https://kasiaizak.github.io/kurs-fed/zadania-domowe/7-ajax-pobierz-dane-programisty/) z zewnętrznego pliku
