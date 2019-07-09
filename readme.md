@@ -33,7 +33,7 @@
 - [Pobieranie danych z obiektu JSON](https://repl.it/@katarzynaizak/obiekt-json) link do repl.it
 
 ### Model DOM:
-- [Kalkulator](https://codepen.io/kasiaizak/pen/NZBRyz) wykonuje podstawowe funkcje arytmetyczne na liczbach całkowitych i zmiennoprzecinkowych, w założeniu nie obsługuje jeszcze błędów (jak dzielenie przez zero)
+- [Kalkulator](https://codepen.io/kasiaizak/pen/NZBRyz) wykonuje podstawowe funkcje arytmetyczne na liczbach całkowitych i zmiennoprzecinkowych, w założeniu nie obsługuje jeszcze błędów (jak dzielenie przez zero), link do codepen.io
 
 ### Biblioteka jQuery:
 - [Prosta animacja](https://codepen.io/kasiaizak/pen/jjpovO) link do codepen.io
