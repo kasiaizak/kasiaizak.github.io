@@ -1,7 +1,7 @@
 # Moje kodowanie:
 - [Wizytówka](https://kasiaizak.github.io/business-card/) 
 - [Gotuję jak Masterszef](https://kasiaizak.github.io/masterszef/) - moja "książka kucharska" (w trakcie budowy)
-- [PZHK-de](https://kasiaizak.github.io/landingpage/pzhk-de/) - strona typu landing page dla PZHK
+- [PZHK-de](https://kasiaizak.github.io/pzhk-de/) - strona typu landing page dla PZHK 
 - [FilmŁeb po mojemu](https://kasiaizak.github.io/filmleb/) - mała aplikacja w JS (z użyciem biblioteki jQuery) do budowania własnej biblioteczki filmowej. Za wersję wizualną odpowiada Bootstrap 4, a do zarządzania danymi została wykorzystana baza Firebase (na stałe zablokowana do użytku publicznego, tymczasowo blokadę można zdjąć w celu dodania nowych danych). W planie mam dodanie logowania.
 - [NORD](https://kasiaizak.github.io/rekrutacja/landingpage-nord/) - strona typu landing page wykonana na podstawie pliku psd
 - [To-do Lista](https://kasiaizak.github.io/rekrutacja/mdbootstrap-todolist/) - przycisk "Add" dodaje nowe zadanie z treścią 'Task number #' gdzie # to numer zadania. Ponowne kliknięcie tego przycisku dodaje kolejne zadanie z następnym numerem. "Remove" usuwa ostatnie zadanie (o najwyższym numerze). "Clear" czyści całą listę.
