@@ -20,14 +20,9 @@
 ## CSS:
 - [Kolorwe kwadraty](https://codepen.io/kasiaizak/pen/NZBRoO?editors=1100#0) link do codepen.io
 - [Odliczanie](https://codepen.io/kasiaizak/pen/OewGdQ?editors=1100#0) link do codepen.io
-- [Ćwiczenie z RWD](https://kasiaizak.github.io/kurs-fed/zadania-domowe/3-css-rwd/) strona wyświetla się różnie w zależności od jej szerokości: mniej niż 992px, więcej niż 992px i więcej niż 1170px
 - [Preloader](https://codepen.io/kasiaizak/pen/orMLXQ?editors=1100#0) link do codepen.io
 
 ## JavaSript:
-- [Odwrócenie stringa](https://repl.it/@katarzynaizak/odwroc-stringa) link do repl.it
-- [Sortowanie stringa](https://repl.it/@katarzynaizak/sortuj-stringa) link do repl.it
-- [Suma i iloczyn](https://repl.it/@katarzynaizak/suma-i-iloczyn) link do repl.it
-- [Suma kwadratów](https://repl.it/@katarzynaizak/suma-kwadratow) zlink do repl.it
 - [Pobieranie n-tego elementu z ciągu Fibonacciego](https://repl.it/@katarzynaizak/element-fibonacci) link do repl.it
 - [Praca z obiektami](https://repl.it/@katarzynaizak/obiekty-ksiazka) link do repl.it
 - [Pobieranie danych z obiektu JSON](https://repl.it/@katarzynaizak/obiekt-json) link do repl.it
