@@ -2,7 +2,7 @@
 - [Wizytówka](https://github.com/kasiaizak/business-card/blob/master/README.md)
 - [Gotuję jak Masterszef](https://github.com/kasiaizak/masterszef/blob/master/README.md) - moja "książka kucharska" (w trakcie budowy)
 - [LocalStorage Editor](https://github.com/kasiaizak/localstorage-editor/blob/master/README.md) - prosta strona pokazująca przechowywanie wprowadzonego tekstu przez użytkownika w lokalnej pamięci komputera
-- [PZHK-de](https://github.com/kasiaizak/pzhk-de/blob/master/README.md) - strona typu landing page dla PZHK 
+- [PZHK-de](https://github.com/kasiaizak/pzhk-de/blob/master/README.md) - strona informacyjna dla Polskiego Związku Hodowców Koni 
 - [FilmŁeb po mojemu](https://github.com/kasiaizak/filmleb/blob/master/README.md) - mała aplikacja w JS (z użyciem biblioteki jQuery) do budowania własnej biblioteczki filmowej
 - [NORD](https://kasiaizak.github.io/rekrutacja/landingpage-nord/) - strona typu landing page wykonana na podstawie pliku psd
 - [To-do Lista](https://kasiaizak.github.io/rekrutacja/mdbootstrap-todolist/) - przycisk "Add" dodaje nowe zadanie z treścią 'Task number #' gdzie # to numer zadania. Ponowne kliknięcie tego przycisku dodaje kolejne zadanie z następnym numerem. "Remove" usuwa ostatnie zadanie (o najwyższym numerze). "Clear" czyści całą listę.
