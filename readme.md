@@ -19,22 +19,18 @@
 # Ćwiczenia:
 
 ## CSS:
-- [Kolorwe kwadraty](https://codepen.io/kasiaizak/pen/NZBRoO?editors=1100#0) link do codepen.io
-- [Odliczanie](https://codepen.io/kasiaizak/pen/OewGdQ?editors=1100#0) link do codepen.io
 - [Preloader](https://codepen.io/kasiaizak/pen/orMLXQ?editors=1100#0) link do codepen.io
+- [Odliczanie](https://codepen.io/kasiaizak/pen/OewGdQ?editors=1100#0) link do codepen.io
+- [Kolorwe kwadraty](https://codepen.io/kasiaizak/pen/NZBRoO?editors=1100#0) link do codepen.io
 
 ## JavaSript:
-- [Pobieranie n-tego elementu z ciągu Fibonacciego](https://repl.it/@katarzynaizak/element-fibonacci) link do repl.it
-- [Praca z obiektami](https://repl.it/@katarzynaizak/obiekty-ksiazka) link do repl.it
-- [Pobieranie danych z obiektu JSON](https://repl.it/@katarzynaizak/obiekt-json) link do repl.it
+- [Pobieranie danych z obiektu JSON](https://repl.it/@katarzynaizak/json-object) link do repl.it
+- [Praca z obiektami](https://repl.it/@katarzynaizak/book-object) link do repl.it
+- [Pobieranie n-tego elementu z ciągu Fibonacciego](https://repl.it/@katarzynaizak/element-of-fibonacci) link do repl.it
 
 ### Model DOM:
 - [Kalkulator](https://codepen.io/kasiaizak/pen/NZBRyz) wykonuje podstawowe funkcje arytmetyczne na liczbach całkowitych i zmiennoprzecinkowych, w założeniu nie obsługuje jeszcze błędów (jak dzielenie przez zero), link do codepen.io
 
 ### Biblioteka jQuery:
-- [Prosta animacja](https://codepen.io/kasiaizak/pen/jjpovO) link do codepen.io
 - [Modyfikacje DOM](https://codepen.io/kasiaizak/pen/ewjaXB?editors=1010#0) link do codepen.io
 - [Suma wypłat](https://codepen.io/kasiaizak/pen/YojoPR?editors=1010#0) link do codepen.io
-
-### AJAX:
-- [Pobiera dane programisty](https://kasiaizak.github.io/kurs-fed/zadania-domowe/7-ajax-pobierz-dane-programisty/) z zewnętrznego pliku
