@@ -8,11 +8,6 @@
 - [To-do Lista](https://kasiaizak.github.io/rekrutacja/mdbootstrap-todolist/) - przycisk "Add" dodaje nowe zadanie z treścią 'Task number #' gdzie # to numer zadania. Ponowne kliknięcie tego przycisku dodaje kolejne zadanie z następnym numerem. "Remove" usuwa ostatnie zadanie (o najwyższym numerze). "Clear" czyści całą listę.
 - [Bootstrap Project](https://kasiaizak.github.io/landingpage/bootstrap-project/index.html) - strona typu landing page wykonana na podstawie pliku jpg i przesłanych materiałów graficznych
 
-# Różne wersje "projektu portfolio":
-- [wersja czysty HTML5 i CSS3](https://kasiaizak.github.io/landingpage/projekt-portfolio/html-css/index.html)
-- [wersja Bootstrap 3](https://kasiaizak.github.io/landingpage/projekt-portfolio/bootstrap/index.html)
-- [wersja Bootstrap 3 + SAAS](https://kasiaizak.github.io/landingpage/projekt-portfolio/bootstrap-sass/index.html)
-
 # Modyfikacje szablonów WordPress:
 - strona [FAME Fitness](http://www.famefitness.pl/) - dodanie dodatkowego CSS'a dostosowującego motyw *Storefront* do oczekiwań właściciela strony
 
