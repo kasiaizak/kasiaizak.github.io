@@ -6,9 +6,9 @@
 - [PZHK](https://github.com/kasiaizak/pzhk/blob/master/README.md) - szablon strony informacyjnej dla Polskiego Związku Hodowców Koni
 - [Gotuję jak Masterszef](https://github.com/kasiaizak/masterszef/blob/master/README.md) - moja "książka kucharska"
 - [FilmŁeb po mojemu](https://github.com/kasiaizak/filmleb/blob/master/README.md) - mała aplikacja w JS (z użyciem biblioteki jQuery) do budowania własnej biblioteczki filmowej
-- [NORD](https://kasiaizak.github.io/rekrutacja/landingpage-nord/) - strona typu landing page wykonana na podstawie pliku psd
-- [To-do Lista](https://kasiaizak.github.io/rekrutacja/mdbootstrap-todolist/) - przycisk "Add" dodaje nowe zadanie z treścią 'Task number #' gdzie # to numer zadania. Ponowne kliknięcie tego przycisku dodaje kolejne zadanie z następnym numerem. "Remove" usuwa ostatnie zadanie (o najwyższym numerze). "Clear" czyści całą listę.
-- [Bootstrap Project](https://kasiaizak.github.io/landingpage/bootstrap-project/index.html) - strona typu landing page wykonana na podstawie pliku jpg i przesłanych materiałów graficznych
+- NORD - strona typu landing page wykonana na podstawie pliku psd
+- To-do Lista - przycisk "Add" dodaje nowe zadanie z treścią 'Task number #' gdzie # to numer zadania. Ponowne kliknięcie tego przycisku dodaje kolejne zadanie z następnym numerem. "Remove" usuwa ostatnie zadanie (o najwyższym numerze). "Clear" czyści całą listę.
+- Bootstrap Project - strona typu landing page wykonana na podstawie pliku jpg i przesłanych materiałów graficznych
 
 ## Modyfikacje szablonów WordPress
 
