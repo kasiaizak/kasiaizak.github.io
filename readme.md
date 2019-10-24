@@ -1,3 +1,5 @@
+![cover](https://raw.githubusercontent.com/kasiaizak/portfolio/master/src/assets/img/cover.png)
+
 # Moje kodowanie
 
 - **Portfolio** + trochę informacji na mój temat i formularz kontaktowy
