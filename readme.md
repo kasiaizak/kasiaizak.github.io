@@ -1,14 +1,25 @@
 # Moje kodowanie
 
-- [Wizytówka](https://github.com/kasiaizak/business-card/blob/master/README.md)
-- [HydrApp](https://github.com/kasiaizak/hydrapp/blob/master/README.md) - aplikacja PWA do zliczania wypitych szklanek wody
-- [LocalStorage Editor](https://github.com/kasiaizak/localstorage-editor/blob/master/README.md) - prosta strona pokazująca przechowywanie wprowadzonego tekstu przez użytkownika w lokalnej pamięci komputera
-- [PZHK](https://github.com/kasiaizak/pzhk/blob/master/README.md) - szablon strony informacyjnej dla Polskiego Związku Hodowców Koni
-- [Gotuję jak Masterszef](https://github.com/kasiaizak/masterszef/blob/master/README.md) - moja "książka kucharska"
-- [FilmŁeb po mojemu](https://github.com/kasiaizak/filmleb/blob/master/README.md) - mała aplikacja w JS (z użyciem biblioteki jQuery) do budowania własnej biblioteczki filmowej
-- NORD - strona typu landing page wykonana na podstawie pliku psd
-- To-do Lista - przycisk "Add" dodaje nowe zadanie z treścią 'Task number #' gdzie # to numer zadania. Ponowne kliknięcie tego przycisku dodaje kolejne zadanie z następnym numerem. "Remove" usuwa ostatnie zadanie (o najwyższym numerze). "Clear" czyści całą listę.
-- Bootstrap Project - strona typu landing page wykonana na podstawie pliku jpg i przesłanych materiałów graficznych
+- **Portfolio** + trochę informacji na mój temat i formularz kontaktowy
+  - [Podgląd on-line](https://kasiaizak.github.io/portfolio/) oraz [Repozytorium](https://github.com/kasiaizak/portfolio)
+- **HydrApp** - aplikacja PWA do zliczania wypitych szklanek wody
+  - [Podgląd on-line](https://kasiaizak.github.io/hydrapp/) oraz [Repozytorium](https://github.com/kasiaizak/hydrapp)
+- **LocalStorage Editor** - prosta strona pokazująca przechowywanie wprowadzonego tekstu przez użytkownika w lokalnej pamięci komputera
+  - [Podgląd on-line](https://kasiaizak.github.io/localstorage-editor/) oraz [Repozytorium](https://github.com/kasiaizak/localstorage-editor)
+- **Wizytówka on-line** - zbiór podstawowych linków
+  - [Podgląd on-line](https://www.kasiaizak.pl/) oraz [Repozytorium](https://github.com/kasiaizak/business-card)
+- **PZHK** - szablon strony informacyjnej dla Polskiego Związku Hodowców Koni
+  - [Podgląd on-line](https://kasiaizak.github.io/pzhk/) oraz [Repozytorium](https://github.com/kasiaizak/pzhk)
+- **Gotuję jak Masterszef** - moja "książka kucharska"
+  - [Podgląd on-line](https://kasiaizak.github.io/masterszef/) oraz [Repozytorium](https://github.com/kasiaizak/masterszef)
+- **FilmŁeb po mojemu** - mała aplikacja do budowania własnej biblioteczki filmowej
+  - [Podgląd on-line](https://kasiaizak.github.io/filmleb/) oraz [Repozytorium](https://github.com/kasiaizak/filmleb)
+- **Bootstrap Project** - strona typu landing page wykonana na podstawie pliku jpg i materiałów graficznych - *w trakcie przenoszenia do oddzielnego repozytorium*
+
+## Zadania rekrutacyjne
+
+- **NORD** : strona typu landing page wykonana na podstawie pliku psd - *w trakcie przenoszenia do oddzielnego repozytorium*
+- **To-do Lista** - *w trakcie przenoszenia do oddzielnego repozytorium*
 
 ## Modyfikacje szablonów WordPress
 
