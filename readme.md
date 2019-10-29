@@ -20,9 +20,9 @@
 
 ## Zadania rekrutacyjne
 
-- **bcweb** : wykonanie menu pełnoekranowego do strony www przedstawionej na rzucie graficznym w formacie tif
+- **bcweb** - wykonanie menu pełnoekranowego do strony www przedstawionej na rzucie graficznym w formacie tif
   - [Podgląd on-line](https://kasiaizak.github.io/bcweb/) oraz [Repozytorium](https://github.com/kasiaizak/bcweb)
-- **NORD** : strona typu landing page wykonana na podstawie pliku psd - *w trakcie przenoszenia do oddzielnego repozytorium*
+- **NORD** - strona typu landing page wykonana na podstawie pliku psd - *w trakcie przenoszenia do oddzielnego repozytorium*
 - **To-do Lista** - *w trakcie przenoszenia do oddzielnego repozytorium*
 
 ## Modyfikacje szablonów WordPress
