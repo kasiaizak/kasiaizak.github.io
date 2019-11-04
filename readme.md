@@ -20,8 +20,8 @@
 
 ## Zadania rekrutacyjne
 
-- **bcweb** - wykonanie menu pełnoekranowego do strony www przedstawionej na rzucie graficznym w formacie tif
-  - [Podgląd on-line](https://kasiaizak.github.io/bcweb/) oraz [Repozytorium](https://github.com/kasiaizak/bcweb)
+- **tastrona** - wykonanie menu pełnoekranowego do strony www przedstawionej na rzucie graficznym w formacie tif (logo zmienione po rekrutacji)
+  - [Podgląd on-line](https://kasiaizak.github.io/tastrona/) oraz [Repozytorium](https://github.com/kasiaizak/tastrona)
 - **NORD** - strona typu landing page wykonana na podstawie pliku psd - *w trakcie przenoszenia do oddzielnego repozytorium*
 - **To-do Lista** - *w trakcie przenoszenia do oddzielnego repozytorium*
 
