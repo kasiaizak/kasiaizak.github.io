@@ -16,7 +16,7 @@
   - [Podgląd on-line](https://kasiaizak.github.io/masterszef/) oraz [Repozytorium](https://github.com/kasiaizak/masterszef)
 - **FilmŁeb po mojemu** - mała aplikacja do budowania własnej biblioteczki filmowej
   - [Podgląd on-line](https://kasiaizak.github.io/filmleb/) oraz [Repozytorium](https://github.com/kasiaizak/filmleb)
-- **Bootstrap Project** - strona typu landing page wykonana na podstawie pliku jpg i materiałów graficznych
+- **Bootstrap Project** - strona typu landing page wykonana na podstawie dostarczonych materiałów graficznych
   - [Podgląd on-line](https://kasiaizak.github.io/bootstrap-project/) oraz [Repozytorium](https://github.com/kasiaizak/bootstrap-project/)
 
 ## Zadania rekrutacyjne
