@@ -23,9 +23,9 @@
 
 - **tastrona** - wykonanie menu pełnoekranowego do strony www przedstawionej na rzucie graficznym w formacie tif (logo zmienione po rekrutacji)
   - [Podgląd on-line](https://kasiaizak.github.io/tastrona/) oraz [Repozytorium](https://github.com/kasiaizak/tastrona)
+- **To-do Lista** - *w trakcie przenoszenia do oddzielnego repozytorium*
 - **NORD** - strona typu landing page wykonana na podstawie pliku psd
   - [Podgląd on-line](https://kasiaizak.github.io/landing-page-nord/) oraz [Repozytorium](https://github.com/kasiaizak/landing-page-nord)
-- **To-do Lista** - *w trakcie przenoszenia do oddzielnego repozytorium*
 
 ## Modyfikacje szablonów WordPress
 
