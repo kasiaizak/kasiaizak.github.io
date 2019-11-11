@@ -23,7 +23,8 @@
 
 - **tastrona** - wykonanie menu pełnoekranowego do strony www przedstawionej na rzucie graficznym w formacie tif (logo zmienione po rekrutacji)
   - [Podgląd on-line](https://kasiaizak.github.io/tastrona/) oraz [Repozytorium](https://github.com/kasiaizak/tastrona)
-- **To-do Lista** - *w trakcie przenoszenia do oddzielnego repozytorium*
+- **Todo List** - przycisk "Add" dodaje nowe zadanie z treścią *Task number #* gdzie # to numer zadania. Ponowne kliknięcie tego przycisku dodaje kolejne zadanie z następnym numerem. "Remove" usuwa ostatnie zadanie (o najwyższym numerze). "Clear" czyści całą listę
+  - [Podgląd on-line](https://kasiaizak.github.io/mdbootstrap/) oraz [Repozytorium](https://github.com/kasiaizak/mdbootstrap)
 - **NORD** - strona typu landing page wykonana na podstawie pliku psd
   - [Podgląd on-line](https://kasiaizak.github.io/landing-page-nord/) oraz [Repozytorium](https://github.com/kasiaizak/landing-page-nord)
 
