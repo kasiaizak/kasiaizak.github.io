@@ -5,7 +5,7 @@
 - **Portfolio** + trochę informacji na mój temat i formularz kontaktowy
   - [Podgląd on-line](https://kasiaizak.github.io/portfolio/) oraz [Repozytorium](https://github.com/kasiaizak/portfolio)
 - **HydrApp** - aplikacja PWA do zliczania wypitych szklanek wody
-  - [Podgląd on-line](https://kasiaizak.github.io/hydrapp/) oraz [Repozytorium](https://github.com/kasiaizak/hydrapp)
+  - [Podgląd on-line](https://hydrapp.kasiaizak.pl) oraz [Repozytorium](https://github.com/kasiaizak/hydrapp)
 - **LocalStorage Editor** - prosta strona pokazująca przechowywanie wprowadzonego tekstu przez użytkownika w lokalnej pamięci komputera
   - [Podgląd on-line](https://kasiaizak.github.io/localstorage-editor/) oraz [Repozytorium](https://github.com/kasiaizak/localstorage-editor)
 - **Wizytówka on-line** - zbiór podstawowych linków
