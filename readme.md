@@ -30,6 +30,7 @@
 
 ## Modyfikacje szablonów WordPress
 
+- strona [Pauliny Peckiel](https://www.peckiel.pl/) - dodanie dodatkowych właściwości CSS i skryptu jQuery dostosowujących*chmurę tagów dla wpisów* oraz *chmurę tagów dla zdjęć z wtyczki NextGen Gallery* [podgląd](https://www.peckiel.pl/pokaz-zdjecia-konia/) do oczekiwań właścicielki strony
 - strona [FAME Fitness](http://www.famefitness.pl/) - dodanie dodatkowych właściwości CSS dostosowujących motyw *Storefront* do oczekiwań właściciela strony
 
 ## Ćwiczenia
