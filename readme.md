@@ -44,9 +44,9 @@
 
 ### JavaScript
 
-- [Pobieranie danych z obiektu JSON](https://repl.it/@katarzynaizak/json-object) link do repl.it
-- [Praca z obiektami](https://repl.it/@katarzynaizak/book-object) link do repl.it
-- [Pobieranie n-tego elementu z ciągu Fibonacciego](https://repl.it/@katarzynaizak/element-of-fibonacci) link do repl.it
+- [Pobieranie danych z obiektu JSON](https://repl.it/@kasiaizak/json-object) link do repl.it
+- [Praca z obiektami](https://repl.it/@kasiaizak/book-object) link do repl.it
+- [Pobieranie n-tego elementu z ciągu Fibonacciego](https://repl.it/@kasiaizak/element-of-fibonacci) link do repl.it
 
 #### Model DOM
 
