@@ -37,6 +37,7 @@
 
 ### CSS
 
+- [Animowana tęczowa ramka](https://codepen.io/kasiaizak/pen/BXyXdB) link do codepen.io
 - [Preloader](https://codepen.io/kasiaizak/pen/orMLXQ?editors=1100#0) link do codepen.io
 - [Odliczanie](https://codepen.io/kasiaizak/pen/OewGdQ?editors=1100#0) link do codepen.io
 - [Kolorowe kwadraty](https://codepen.io/kasiaizak/pen/NZBRoO?editors=1100#0) link do codepen.io
